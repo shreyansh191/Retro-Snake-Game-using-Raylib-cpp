@@ -1,0 +1,18 @@
+1.(Open compile.sh file with text editor and set the 'compile' variable that you are using, eg- clang, gcc, g++, etc)
+
+2.Open terminal in the current folder and type:-
+sh compile_and_run.sh
+./retrosnake
+
+
+#----------------------------------------------------------------------
+
+
+#Using raylib 5.0 (source file - https://github.com/raysan5/raylib), gcc-13 (homebrew).
+
+#29th Oct 2023 
+
+@Developed by - Shreyansh Kedawat
+Contact me at kedawatshreyansh7@gmail.com
+Thankyou
+#---------------------------------------------------------------
