@@ -13,6 +13,5 @@ sh compile_and_run.sh
 #29th Oct 2023 
 
 @Developed by - Shreyansh Kedawat
-Contact me at kedawatshreyansh7@gmail.com
 Thankyou
 #---------------------------------------------------------------
