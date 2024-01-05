@@ -7,7 +7,7 @@
 
 
 ## Features
-* Use Arrow Keys to control the snake
+* Use `Arrow Keys` to control the snake
 * Press `M` key to change the modes
   -  **Fist Mode** - Snake passes through the wall
   -  **Second Mode** - Snake is restricted at the boundary
