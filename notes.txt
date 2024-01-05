@@ -1,7 +1,7 @@
 1.(Open compile.sh file with text editor and set the 'compile' variable that you are using, eg- clang, gcc, g++, etc)
 
 2.Open terminal in the current folder and type:-
-sh compile_and_run.sh
+sh compile.sh
 ./retrosnake
 
 
